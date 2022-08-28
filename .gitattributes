@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+solution_notebooks_sample-sol-r-script-problem-1.r filter=lfs diff=lfs merge=lfs -text
+solution_notebooks_sample-sol-r-script.r filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+solution_notebooks_gene-project-problem2_3.ipynb filter=lfs diff=lfs merge=lfs -text
+solution_notebooks_gene_project-sample-sol-problem1-3T2021.ipynb filter=lfs diff=lfs merge=lfs -text
